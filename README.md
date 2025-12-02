@@ -1,5 +1,4 @@
 
-- - - -
 ## Dark mode using  Context API
 ## Shopping Crat using Context API
 ### Dependencies argument,Side effects,Side 
